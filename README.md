@@ -29,7 +29,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-<h1 align="center">
+<h1 align="center" height="50vh">
     <img alt="App gif" src="https://i.ibb.co/StH0vDM/ezgif-com-gif-maker.gif" />
 </h1>
 
